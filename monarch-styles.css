@@ -3,13 +3,16 @@ body {
 }
 
 h1 {
-  color:   #1A5276;
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
 }
 
-}
 h2 {
-  color: #FFDE7A;
+  color: #blue;
+  background-color: #ff8000
 }
+
 
 #contact {
   background-color: #FFDE7A;
