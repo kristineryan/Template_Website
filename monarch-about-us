@@ -1,0 +1,35 @@
+<!doctype html>
+<head>
+  <title>Monarch - About Us</title>
+  <link rel="stylesheet" type="text/css" href="monarch-styles.css">
+</head>
+
+<body>
+
+<h1>Monarch Retreat and Oasis</h1>
+
+<ul id="nav">
+  <li><a href="/monarch-about-us/">About Us</a></li>
+  <li><a href="/monarch-what-we-offer/">What We Offer</a></li>
+  <li><a href="/monarch-rates/">Rates</a></li>
+  <li><a href="/monarch-vendors/">Vendors</a></li>
+  <li><a href="/monarch-contact-us/">Contact Us</a></li>
+</ul>
+</br>
+
+<div>
+  <img src="couple-tree.jpg" alt="North Side of Yard" align="middle" />
+</div>
+
+<h2>ABOUT US</h2>
+
+<div>
+<p>Monarch Retreat and Oasis is a farmstead where your guests are welcomed by the lovely, relaxed, country setting complete with grasslands, trout brook, and an abundance of birds and butterflies.</p>
+
+<p>The name of our abode is derived from the monarch butterflies that roam the property, fortifying themselves on hearty milkweed plants that thrive in the meadow.</p>
+
+<p>Great Grandpa Kittelson purchased the farm at a sheriff's sale during the Great Depression. However, the farm house was built by a visionary we know as Mrs. Peterson, whom we feel still resides here to this day. Our venue retains the rustic charm of days gone by in its vignettes featuring the windmill, chicken coop, and original farmhouse.</p>
+
+</div>
+</body>
+</html>

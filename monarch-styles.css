@@ -1,20 +1,53 @@
 body {
   font-family: "Arial", Helvetica, sans-serif;
+  width: 960px;
+  margin: auto;
 }
 
 h1 {
+  background-color:blue;
   color: gold;
   font-family: Arial;
   font-size: 300%;
+  padding:1em;
 }
 
 h2 {
-  color: #blue;
-  background-color: #ff8000
+  background-color:blue;
+  color: gold;
+  padding:1em;
 }
 
+#content {
+    max-width: 500px;
+    margin: auto;
+}
 
-#contact {
-  background-color: #FFDE7A;
-  padding: 2%;
+#nav {
+  width: 100%;
+  float: left;
+  margin: 0 0 3em 0;
+  padding: 0;
+  list-style: none;
+  background-color: #ff8000;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
+
+#nav li {
+  float: left;
+}
+
+#nav li a {
+  display: block;
+  padding: 8px 15px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #069;
+  border-right: 1px solid #ccc;
+}
+
+#text {
+  width: auto;
+  margin: auto;
 }
