@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE CowHerd [
+<!ELEMENT CowHerd (CowID, Name, BirthDate, VaccinationDate, Sire, BreedingDate, CalfID, Fat, Protein)>
+<!ELEMENT CowID (#PCDATA)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT BirthDate (#PCDATA)>
+<!ELEMENT VaccinationDate (#PCDATA)>
+<!ELEMENT Sire (#PCDATA)>
+<!ELEMENT BreedingDate (#PCDATA)>
+<!ELEMENT CalfID (#PCDATA)>
+<!ELEMENT Fat (#PCDATA)>
+<!ELEMENT Protein (#PCDATA)>
+]>

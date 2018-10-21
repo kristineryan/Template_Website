@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE CowHerd SYSTEM "farm.dtd">
+<CowHerd>
+    <CowID>
+      <Name>5200</Name>
+      <BirthDate>2016-09-24</BirthDate>
+      <VaccinationDate>2016-12-24</VaccinationDate>
+      <Sire>2452</Sire>
+      <BreedingDate>2018-06-10</BreedingDate>
+      <CalfID>10500</CalfID>
+      <Fat>4.0</Fat>
+      <Protein>2.9</Protein>
+    </CowID>
+    <CowID>
+      <Name>5201</Name>
+      <BirthDate>2016-10-08</BirthDate>
+      <VaccinationDate>2016-12-08</VaccinationDate>
+      <Sire>2453</Sire>
+      <BreedingDate>2018-07-20</BreedingDate>
+      <CalfID>10608</CalfID>
+      <Fat>4.1</Fat>
+      <Protein>2.8</Protein>
+    </CowID>
+    <CowID>
+      <Name>5202</Name>
+      <BirthDate>2016-11-16</BirthDate>
+      <VaccinationDate>2017-01-16</VaccinationDate>
+      <Sire>2454</Sire>
+      <BreedingDate>2018-07-24</BreedingDate>
+      <CalfID>10728</CalfID>
+      <Fat>4.0</Fat>
+      <Protein>2.9</Protein>
+    </CowID>
+    <CowID>
+      <Name>5203</Name>
+      <BirthDate>2016-12-23</BirthDate>
+      <VaccinationDate>2017-02-23</VaccinationDate>
+      <Sire>2455</Sire>
+      <BreedingDate>2018-08-05</BreedingDate>
+      <CalfID>10767</CalfID>
+      <Fat>4.0</Fat>
+      <Protein>2.8</Protein>
+    </CowID>
+  </CowHerd>
